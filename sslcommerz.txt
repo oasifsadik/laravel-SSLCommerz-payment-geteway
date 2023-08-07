@@ -1,0 +1,25 @@
+1Your application domain name
+www.jisan.com
+
+2Your Company name
+jisansoft
+
+3Your company address
+dhaka,adabor
+
+4Your name
+Oasif Sadik
+
+5Your email address
+oasifsadik99@students.diu.ac
+
+6Your phone number
+01705825277
+
+7Your username
+oasifsadik
+
+8Your password
+
+
+Confirm password
